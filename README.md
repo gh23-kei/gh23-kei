@@ -18,7 +18,7 @@
 ## ✨ A little about me
 
 - 🌏 I'm a student and coder from **Vietnam**.
-- 💻 I'm exploring **HTML** and learning by making projects.
+- 💻 I'm learning **Java, Python, HTML, and CSS** and making projects along the way.
 - 🌱 I believe every bug is a chance to learn something new.
 - 🚀 My goal: keep creating, improving, and having fun along the way.
 
@@ -26,8 +26,10 @@
 
 <div align="center">
 
+[![Java](https://img.shields.io/badge/Java-learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn/)
+[![Python](https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML-learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![GitHub](https://img.shields.io/badge/GitHub-building-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gh23-kei)
+[![CSS](https://img.shields.io/badge/CSS-learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
 
