@@ -36,7 +36,6 @@
 ## 🌟 Featured projects
 
 - 🌐 **[Web](https://github.com/gh23-kei/Web)** — my web project currently in development.
-- 🏠 **[gh23-kei.github.io](https://github.com/gh23-kei/gh23-kei.github.io)** — my personal website project.
 
 ## 📊 My GitHub
 
