@@ -37,16 +37,7 @@
 
 - 🌐 **[Web](https://github.com/gh23-kei/Web)** — my web project currently in development.
 
-## 📊 My GitHub
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gh23-kei&show_icons=true&hide_border=true&bg_color=0d1117&title_color=55D6BE&icon_color=55D6BE&text_color=c9d1d9)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh23-kei&layout=compact&hide_border=true&bg_color=0d1117&title_color=55D6BE&text_color=c9d1d9)
-
-</div>
-
----
 
 <div align="center">
 
