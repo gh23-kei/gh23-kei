@@ -35,9 +35,8 @@
 
 ## 🌟 Featured projects
 
-- 🐦 **[flappy-bird](https://github.com/gh23-kei/flappy-bird)** — a little game project I made.
-- 🧪 **[html](https://github.com/gh23-kei/html)** — experiments and practice with HTML.
-- 🏠 **[gh23-kei.github.io](https://github.com/gh23-kei/gh23-kei.github.io)** — my corner of the web.
+- 🌐 **[Web](https://github.com/gh23-kei/Web)** — my web project currently in development.
+- 🏠 **[gh23-kei.github.io](https://github.com/gh23-kei/gh23-kei.github.io)** — my personal website project.
 
 ## 📊 My GitHub
 
